@@ -1,0 +1,32 @@
+{
+	"storyName": "CATSI / LEVEL : 6",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"fly",
+			"catsi",
+			[
+				243,
+				100,
+				193
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week1c",
+	"hiddenUntilUnlocked": false
+}

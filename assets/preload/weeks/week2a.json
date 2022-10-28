@@ -1,0 +1,32 @@
+{
+	"storyName": "ARCADE BITCRUSH / LEVEL : 6",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"judgement(demo)",
+			"Army_man",
+			[
+				145,
+				146,
+				91
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week2a",
+	"hiddenUntilUnlocked": false
+}
