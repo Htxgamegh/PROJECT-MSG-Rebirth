@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Army_man idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				470,
+				190
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Army_man left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				470,
+				217
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Army_man down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				460,
+				207
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Army_man up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				502,
+				217
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Army_man right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				477,
+				206
+			],
+			"anim": "gun",
+			"fps": 24,
+			"name": "Army_man gunload",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Army_man",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Army_man",
+	"flip_x": false,
+	"healthbar_colors": [
+		145,
+		146,
+		91
+	],
+	"camera_position": [
+		-280,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

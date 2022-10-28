@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				480
+			],
+			"anim": "ugh",
+			"fps": 24,
+			"name": "hit",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/metalbfs",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "metalbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		51,
+		109,
+		193
+	],
+	"camera_position": [
+		350,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
